@@ -9,7 +9,7 @@ social:
     twitter: https://twitter.com/jibrinx
     linkedin: https://www.linkedin.com/jibrinx
     github: https://github.com/
-    website:https://jibrinx.github.io/
+    website: https://jibrinx.github.io/
     <!---orcid: https://orcid.org/ -->
    <!--- research-gate: https://www.researchgate.net/ -->
 education:
