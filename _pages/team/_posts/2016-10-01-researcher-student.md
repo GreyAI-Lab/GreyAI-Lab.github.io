@@ -1,9 +1,9 @@
 ---
 layout: member
-category: student
-title: Researcher Name
+category: Members
+title: Popoola Kayode
 image: researcher.png
-role: PhD Student
+role: ML Engineer (Intern)
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
