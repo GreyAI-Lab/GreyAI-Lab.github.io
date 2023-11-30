@@ -1,18 +1,17 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
+title: Jibrin Jaafaru
 image: researcher.png
-role: Lab Director
+role: Principal ML Engineer
 permalink: 'team/researcher-name'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
+    twitter: https://twitter.com/jibrinx
+    linkedin: https://www.linkedin.com/jibrinx
     github: https://github.com/
-    website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    website:https://jibrinx.github.io/
+    <!---orcid: https://orcid.org/ -->
+   <!--- research-gate: https://www.researchgate.net/ -->
 education:
  - Education
 ---
