@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Lead
 title: Jibrin Jaafaru
 image: researcher.png
 role: Principal ML Engineer
