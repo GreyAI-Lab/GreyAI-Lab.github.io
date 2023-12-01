@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Members
+category: members
 title: Popoola Kayode
 image: researcher.png
 role: ML Engineer (Intern)
